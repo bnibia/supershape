@@ -1,0 +1,40 @@
+/* 
+author: capsloth (BNSE)
+update: 03/03/2018
+*/
+
+body { margin:0; }
+
+canvas 
+{
+    background-color: black;
+	display: block;
+	position: absolute;
+}
+
+#display
+{
+	position: fixed;
+	left: 5%;	
+	bottom: 3%;
+}
+
+input { width: 1000px;}
+
+spam 
+{ 
+	vertical-align: top;
+	color: white; 
+	margin: 2px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
